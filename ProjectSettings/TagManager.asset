@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - SceneController
+  - SpawnPoint
+  - ClearPoint
+  - Floor
+  - Object
+  - Gear
+  - WarpSlab
+  - SwitchSlab
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PP
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Base1
+    uniqueID: 1726409031
+    locked: 0
+  - name: Base2
+    uniqueID: 2149288497
+    locked: 0
+  - name: Base3
+    uniqueID: 1913123499
+    locked: 0
+  - name: Entity1
+    uniqueID: 1264803725
+    locked: 0
+  - name: Entity2
+    uniqueID: 3537578839
+    locked: 0
+  - name: Entity3
+    uniqueID: 1427040681
+    locked: 0
+  - name: Other
+    uniqueID: 3510948413
+    locked: 0
